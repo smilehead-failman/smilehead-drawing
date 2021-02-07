@@ -1,0 +1,10 @@
+{
+  "name": "smilehead-drawing",
+  "version": "1.0.0",
+  "description": "The schemas to represent a Sanity studio document of drawing and artwork medium.",
+  "main": "index.js",
+  "repository": "https://github.com/smilehead-failman/smilehead-drawing.git",
+  "author": "Smilehead Failman <smilehead.failman@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
